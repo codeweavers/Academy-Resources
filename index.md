@@ -24,4 +24,17 @@
   * [Clean Code Part 1](https://docs.google.com/presentation/d/1XBl5qT5Y9uu_izWAoAS-WzXWQ39jWjgUKvFt7t5jhDg/edit?usp=sharing)
   * [Clean Code Part 2](https://docs.google.com/presentation/d/1qxVY8Ck8eAQXtLTz7IX81ePH_GUhfaol1wfw9XdNI0U/edit?usp=sharing)
   * [Clean Code Part 3](https://docs.google.com/presentation/d/1aCaiMKNcXzHoVrmv5B4XZ_0VJuheNrNlOWTBGg7qLRg/edit?usp=sharing)
-
+  
+### Conference
+* [Autoblip - Craig Judson](https://drive.google.com/open?id=1N-D-VuezTydGwoZqOLS5qYJljbUxxI2K)
+* [Code Craft - Jason Gorman](https://drive.google.com/open?id=1lnNM7qr2dMEoogoJub0ErW9cR6TOrtut)
+* [Databases - Robert Emery](https://drive.google.com/open?id=1SrLErt6PKDIE1GEan0mGzqQOPzKocdVq)
+  * [Slides](https://drive.google.com/open?id=1GMCaD2S445tTk2VSwOj2ln2xSWoGSDXU7NXeLbRyk2g)
+* [Preprocessors - Elliot Evans](https://drive.google.com/open?id=1ZT_BS9IP4s2IWjJx-l6f2ubhi7T2E2W4)
+* [Reinventing the Wheel - Dan Morrison](https://drive.google.com/open?id=1Zcvu4kIERcfLf75nx4wHko4r_nY56FEW)
+* [RxJS - Matthew Kemp](https://drive.google.com/open?id=13U2sHY18uQ8Zl-sstWWuE3yLBtUtyrHx)
+  * [Slides](https://drive.google.com/open?id=1sE1DwpCtklrU2FHBeiLtD3uvKOIriFk9)
+* [Teal Organisations - Neil Kidd](https://drive.google.com/open?id=14w2b5-FMQXlIOVv3lFj8gfWe8vf7NgMb)
+  * [Slides](https://drive.google.com/open?id=0B30KMVGy8FY5S3ZFVXpPbHZ5dG9seHVTNFVCSmdBQ1ZiZmNn)
+* [Uninhabitable Code - Tom Wollert](https://drive.google.com/open?id=1FjAMD8MQlDIwOamWKJpQVtQsyREIbcor)
+  * [Slides](https://docs.google.com/presentation/d/1OYJ5LtIwhXxepBe6dbEpW9XgaL3RCo7EGufBqdeiosE/edit?usp=sharing)
