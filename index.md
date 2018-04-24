@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Codeweavers Academy Resources
 
-You can use the [editor on GitHub](https://github.com/codeweavers/Academy-Resources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Katas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Fizz Buzz](https://docs.google.com/document/d/1YnaVMhhcRx-nMpKBzPq-i9NZtzpXiCx2-mrt3HmhH90/edit?usp=sharing)
+* [Guilded Rose](https://docs.google.com/document/d/1xTUefzunFvwDGRFh54Sb6TJe1jtPAPP8JUpL6paUYfo/edit?usp=sharing)
+* [Racing Car Kata](https://docs.google.com/document/d/1TljKA0IQYF45d8QGqM5CnXxcd-QV4AxBVwnf2veZlKo/edit?usp=sharing)
+* [Tennis Refactoring Kata](https://docs.google.com/document/d/1SbP20O97TYRulJNfCaqnE5QmAAOqazNd2XLxlhLPnGQ/edit?usp=sharing)
+* [12 Days of Christmas](https://docs.google.com/document/d/1F4V_K9egzx8Cyk4SKoZ1F_3dxzqU25k7p23g8eqYTYc/edit?usp=sharing)
+* [Roman Numerals](https://docs.google.com/document/d/1K5rtyKyelDygApHhExbQKbnE-wAKzaxgUjIgBPqQtEQ/edit?usp=sharing)
+* [The Silent Kata](https://github.com/codeweavers/TheSilentKata)
+* [.Net Code Kata Collection](https://github.com/codeweavers/CodeKatas)
+
 
 ### Markdown
 
@@ -27,11 +35,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/codeweavers/Academy-Resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
