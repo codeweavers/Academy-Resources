@@ -42,3 +42,13 @@
 ### External Links
 * [Blue Light](http://theoryofconstraints.blogspot.co.uk/2007/06/toc-stories-2-blue-light-creating.html)
 * [NHibernate Pitfalls](https://weblogs.asp.net/ricardoperes/nhibernate-pitfalls-index)
+* [Agile Manifesto](http://agilemanifesto.org/iso/en/manifesto.html)
+* [Kanban](http://kanbanblog.com/explained/)
+* Restful API's
+  * [Best Practices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+  * [ASP.NET Web API](https://www.asp.net/web-api)
+* TDD
+  * [TDD C# Basics](https://msdn.microsoft.com/en-us/library/hh212233.aspx)
+  * [Guidelines](https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx)
+* Xtreme Programming
+  * [Overview](https://www.agilealliance.org/glossary/xp/#q=~(filters~(postType~(~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'xp))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
