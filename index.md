@@ -38,3 +38,7 @@
   * [Slides](https://drive.google.com/open?id=0B30KMVGy8FY5S3ZFVXpPbHZ5dG9seHVTNFVCSmdBQ1ZiZmNn)
 * [Uninhabitable Code - Tom Wollert](https://drive.google.com/open?id=1FjAMD8MQlDIwOamWKJpQVtQsyREIbcor)
   * [Slides](https://docs.google.com/presentation/d/1OYJ5LtIwhXxepBe6dbEpW9XgaL3RCo7EGufBqdeiosE/edit?usp=sharing)
+  
+### External Links
+* [Blue Light](http://theoryofconstraints.blogspot.co.uk/2007/06/toc-stories-2-blue-light-creating.html)
+* [NHibernate Pitfalls](https://weblogs.asp.net/ricardoperes/nhibernate-pitfalls-index)
