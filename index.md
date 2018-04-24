@@ -11,27 +11,17 @@
 * [The Silent Kata](https://github.com/codeweavers/TheSilentKata)
 * [.Net Code Kata Collection](https://github.com/codeweavers/CodeKatas)
 
+### Presentations
+* [The Rules of XP](https://docs.google.com/presentation/d/1uKoO7Hq_6hF_XIvOGrwlflE7JofTspQqNsm1fxCi5Qg/edit?usp=sharing)
+* [10% Time: The Pros, Cons and Changes](https://docs.google.com/presentation/d/1gsfo9MwrJuilGZ-olnFiESxjSowKDL5DSpdj5PnsnGE/edit?usp=sharing)
+* [The value of User Stories workshop](https://docs.google.com/presentation/d/1CepkcnOzcKiJSj6rJ0SN8uDC4ZAiLLiP43_49NlcEhg/edit?usp=sharing)
+* [Codeweavers Architecture](https://docs.google.com/presentation/d/1wx67RWmVIwSv_Azvvmq9sUU67O55iU_t1gYRPwPOzYQ/edit?usp=sharing)
+  * [Drawing](https://docs.google.com/drawings/d/15kJu9F4fXPTifV27IiDEYW5v7LUS_l6FoIysVvWLDDM/edit?usp=sharing)
+* [Writing Tests Effectively](https://docs.google.com/presentation/d/1uEJpFf6IC3_l6WKiYVknuVeJylQIhyM1evOz6ZJflkM/edit?usp=sharing)
+* [Writing RESTful Web Services](https://docs.google.com/presentation/d/1hoLjDaMDdlpE9KMPritfgXza4fvI4FhoGwd7IQ4SbCs/edit?usp=sharing)
+* [Data Modelling](https://docs.google.com/presentation/d/1soyq2kHWT_FUK9dSa10UWnaEUGoHXMjo5XE-mn1E7Uc/edit?usp=sharing)
+* [Breaking Bad Habits](https://docs.google.com/presentation/d/1QpcG3fM1CjTtYAiT0zF1n1koBVtbbOCZb8JTxcQDyWo/edit?usp=sharing)
+  * [Clean Code Part 1](https://docs.google.com/presentation/d/1XBl5qT5Y9uu_izWAoAS-WzXWQ39jWjgUKvFt7t5jhDg/edit?usp=sharing)
+  * [Clean Code Part 2](https://docs.google.com/presentation/d/1qxVY8Ck8eAQXtLTz7IX81ePH_GUhfaol1wfw9XdNI0U/edit?usp=sharing)
+  * [Clean Code Part 3](https://docs.google.com/presentation/d/1aCaiMKNcXzHoVrmv5B4XZ_0VJuheNrNlOWTBGg7qLRg/edit?usp=sharing)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
