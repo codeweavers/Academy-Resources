@@ -6,7 +6,7 @@
 * [Guilded Rose](https://github.com/codeweavers/GildedRose-Refactoring-Kata)
 * [Racing Car Kata](https://github.com/codeweaversdev/Racing-Car-Katas)
 * [Tennis Refactoring Kata](https://github.com/codeweavers/Tennis-Refactoring-Kata)
-* [12 Days of Christmas](https://docs.google.com/document/d/1F4V_K9egzx8Cyk4SKoZ1F_3dxzqU25k7p23g8eqYTYc/edit?usp=sharing)
+* [12 Days of Christmas](https://github.com/codeweavers/Academy-Resources/blob/master/12DaysOfChrismtas.md)
 * [Roman Numerals](https://docs.google.com/document/d/1K5rtyKyelDygApHhExbQKbnE-wAKzaxgUjIgBPqQtEQ/edit?usp=sharing)
 * [The Silent Kata](https://github.com/codeweavers/TheSilentKata)
 * [.Net Code Kata Collection](https://github.com/codeweavers/CodeKatas)
