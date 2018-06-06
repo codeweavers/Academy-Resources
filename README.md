@@ -10,6 +10,7 @@
 * [Roman Numerals](https://github.com/codeweavers/Academy-Resources/blob/master/RomanNumerals.md)
 * [The Silent Kata](https://github.com/codeweavers/TheSilentKata)
 * [.Net Code Kata Collection](https://github.com/codeweavers/CodeKatas)
+* [Conways Game Of Life](https://github.com/codeweavers/ConwaysGameOfLifeKata)
 
 ### Presentations
 * [The Rules of XP](https://docs.google.com/presentation/d/1uKoO7Hq_6hF_XIvOGrwlflE7JofTspQqNsm1fxCi5Qg/edit?usp=sharing)
